@@ -8,7 +8,7 @@ width = 4
 height = 4
 
 #Specify the path that the image files should be written to
-file_path = "possible2/"
+file_path = "images/"
 
 #initialize pygame with a surface of the given width and height
 pygame.init()
