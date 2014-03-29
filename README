@@ -1,0 +1,8 @@
+I'm still a beginner programmer, so I'm looking forward to learning how
+this algorithm could be more efficient by sharing it with the programming
+community.
+
+Currently, there is a count variable that gets converted to a binary string.
+This is then iterated over in reverse. I'm sure theres a better way of iterating
+over bits, and I'm sure I'll figure it out, but I'm also learning to use Git,
+so I thought I'd upload this code to learn Python and Git at the same time!
