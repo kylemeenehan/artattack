@@ -1,8 +1,5 @@
-I'm still a beginner programmer, so I'm looking forward to learning how
-this algorithm could be more efficient by sharing it with the programming
-community.
+This is an art/programming project.
 
-Currently, there is a count variable that gets converted to a binary string.
-This is then iterated over in reverse. I'm sure theres a better way of iterating
-over bits, and I'm sure I'll figure it out, but I'm also learning to use Git,
-so I thought I'd upload this code to learn Python and Git at the same time!
+The code generates every possibility for a black and white image of a given dimension.
+
+Currently the code is in Python, but I'm in the process of changing it to run with javascript.
